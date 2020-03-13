@@ -1,4 +1,4 @@
-Repositório do GoStacj da Rocketseat - Fase 4 - React Redux e Hooks
+Repositório do GoStack da Rocketseat - Fase 4 - React Redux e Hooks
 Para iniciar, basta copiar o repositório para uma pasta e dar os seguintes comandos:
 
 ### `yarn`
