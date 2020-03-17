@@ -13,10 +13,11 @@ Repositório do GoStack da Rocketseat - Fase 4 - React Redux e Hooks. O projeto 
 * Axios
 * Redux
 * React Hooks
-* React Icons
+* Prop-Types
 * Styled-components
+* Reactotron
+* React Icons
 * ESLint
-* JSON-Server
 
 ## :rocket: Como usar?
 
